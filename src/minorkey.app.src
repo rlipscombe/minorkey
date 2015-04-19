@@ -9,7 +9,8 @@
    [
     kernel,
     stdlib,
-    lager
+    lager,
+    cowboy
    ]},
   {mod, {minorkey_app, []}},
   {env, []}
