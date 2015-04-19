@@ -1,5 +1,5 @@
 PROJECT = minorkey
-DEPS = lager cowboy
+DEPS = lager cowboy erlydtl
 dep_cowboy = git https://github.com/ninenines/cowboy 2.0.0-pre.1
 
 include erlang.mk

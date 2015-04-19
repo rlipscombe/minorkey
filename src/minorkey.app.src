@@ -10,7 +10,8 @@
     kernel,
     stdlib,
     lager,
-    cowboy
+    cowboy,
+    erlydtl
    ]},
   {mod, {minorkey_app, []}},
   {env, []}
